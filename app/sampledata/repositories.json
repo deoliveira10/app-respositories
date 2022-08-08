@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 522315636,
+      "name": "Business-Card",
+      "owner": {
+        "login": "deoliveira10",
+        "avatar_url": "https://avatars.githubusercontent.com/u/105293266?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/deoliveira10/Business-Card",
+      "description": "Projeto cartão de visitas criado no Bootcamp Santander developer na DIO"
+    },
+    {
+      "id": 493415619,
+      "name": "dio-desafio-github-primeiro-repositorio",
+      "owner": {
+        "login": "deoliveira10",
+        "avatar_url": "https://avatars.githubusercontent.com/u/105293266?v=4"
+      },
+      "stargazers_count": 0,
+      "language": null,
+      "html_url": "https://github.com/deoliveira10/dio-desafio-github-primeiro-repositorio",
+      "description": "Desafio de projeto sobre Git/Github"
+    },
+    {
+      "id": 511955226,
+      "name": "projeto-Estacionamento-DIO",
+      "owner": {
+        "login": "deoliveira10",
+        "avatar_url": "https://avatars.githubusercontent.com/u/105293266?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "TypeScript",
+      "html_url": "https://github.com/deoliveira10/projeto-Estacionamento-DIO",
+      "description": "Projeto criado durante o bootcamp Spread Fullstack Developer da DIO"
+    }
+  ]
+}
